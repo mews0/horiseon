@@ -71,13 +71,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* content(s) style start */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* contents style start */
 .contents {
     margin-bottom: 20px;
     padding: 50px;
@@ -95,7 +95,7 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* contents style end */
+/* content(s) style end */
 
 /* benefit(s) style start */
 .benefits {
@@ -124,8 +124,9 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-/* benefits style end */
+/* benefit(s) style end */
 
+/* footer style start */
 footer {
     padding: 30px;
     clear: both;
@@ -136,3 +137,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* footer style end */
